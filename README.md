@@ -13,7 +13,7 @@ UrbanEdge is a comprehensive e-commerce web application built using Node.js, Exp
 *   **EJS:** Templating engine for dynamic HTML generation
 *   **bcrypt:** Library for password hashing
 *   **express-session:** Middleware for managing user sessions
-*   **HTML/CSS/JavaScript:** Frontend technologies
+*   **HTML/CSS/JavaScript:** Frontend technologies 
 *   **Font Awesome:** Icon library
 
 ## Features
